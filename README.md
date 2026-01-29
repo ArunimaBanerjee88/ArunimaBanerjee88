@@ -5,10 +5,21 @@
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on AI & ML projects
-- 🌱 I’m learning deep learning and computer vision
-- 🤝 I’m looking to collaborate on impactful projects
-- ⚡ Fun fact: I prefer shipping over overthinking
+
+🔭 I’m currently working on  
+Building AI/ML projects and automation tools.
+
+🤝 I’m looking to collaborate on  
+AI agents, ML projects, and real-world problem solving.
+
+🌱 I’m currently learning  
+Deep Learning, CNNs, and model deployment.
+
+💬 Ask me about  
+Python, ML, Computer Vision.
+
+⚡ Fun fact  
+I like building things fast and learning by doing.
 
 ---
 
@@ -29,26 +40,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunimaBanerjee88&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunimaBanerjee88&show_icons=true&theme=dark&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunimaBanerjee88&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArunimaBanerjee88&theme=dark)
 
-## ✨ About Me
-
-🔭 I’m currently working on  
-Building AI/ML projects and automation tools.
-
-🤝 I’m looking to collaborate on  
-AI agents, ML projects, and real-world problem solving.
-
-🌱 I’m currently learning  
-Deep Learning, CNNs, and model deployment.
-
-💬 Ask me about  
-Python, ML, Computer Vision.
-
-⚡ Fun fact  
-I like building things fast and learning by doing.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArunimaBanerjee88)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ArunimaBanerjee88&theme=dark)
