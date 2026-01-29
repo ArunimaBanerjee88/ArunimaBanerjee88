@@ -22,3 +22,37 @@
 ![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,fastapi,azure,css,figma,flask,html,notion,sklearn,vscode,mysql)
 
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arunima-banerjee-777031277/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:arunima.banerjee.official@gmail.com)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunimaBanerjee88&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunimaBanerjee88&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ArunimaBanerjee88&theme=dark)
+
+## ✨ About Me
+
+🔭 I’m currently working on  
+Building AI/ML projects and automation tools.
+
+🤝 I’m looking to collaborate on  
+AI agents, ML projects, and real-world problem solving.
+
+🌱 I’m currently learning  
+Deep Learning, CNNs, and model deployment.
+
+💬 Ask me about  
+Python, ML, Computer Vision.
+
+⚡ Fun fact  
+I like building things fast and learning by doing.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArunimaBanerjee88)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ArunimaBanerjee88&theme=dark)
+
+
+
+
