@@ -19,6 +19,6 @@
 
 ## 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,nlp,streamlit,fastapi,azure,css,figma,flask,html,notion,sklearn,vscode,pandas,keras,numpy,mysql)
+![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,fastapi,azure,css,figma,flask,html,notion,sklearn,vscode,mysql)
 
 
