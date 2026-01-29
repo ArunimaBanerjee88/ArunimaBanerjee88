@@ -40,7 +40,8 @@ I like building things fast and learning by doing.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunimaBanerjee88&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunimaBanerjee88&show_icons=true&theme=dark&v=2)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunimaBanerjee88&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ArunimaBanerjee88&theme=dark)
