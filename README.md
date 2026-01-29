@@ -19,11 +19,6 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://skillicons.dev/icons?i=python)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
+![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,nlp,streamlit,fastapi,azure,css,figma,flask,html,notion,sklearn,vscode,pandas,keras,numpy,mysql)
+
 
