@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Arunima
 
-🚀 AI/ML Engineering Student | Builder | Curious Learner
-
 ---
 
-## 🌟 About Me
 
 ## 👩‍💻 About Me
 
@@ -21,10 +18,6 @@ I am actively looking to collaborate on meaningful AI/ML projects, research-orie
 ⚡ Fun fact  
 I like building things fast and learning by doing.
 
----
-
-## 🌐 Socials
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com)
 
 ---
 
